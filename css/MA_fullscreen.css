@@ -1,0 +1,25 @@
+
+/* CSS Document */
+
+html {
+	margin: 0px;
+	padding: 0px;
+	height: 100%;
+}
+
+body {
+	background-color: black;
+	margin: 0px;
+	padding: 0px;
+}
+
+.MADoc {
+	margin: 0px;
+	padding: 0px;
+}
+
+.MADoc canvas {
+	margin: 0px;
+	padding: 0px;
+    display: block;
+}
